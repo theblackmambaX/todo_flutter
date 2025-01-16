@@ -21,7 +21,7 @@ A modern, cross-platform todo application built with Flutter and Material Design
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/todo_flutter.git
+git clone https://github.com/theblackmambaX/todo_flutter.git
 ```
 
 2. Navigate to the project directory:
